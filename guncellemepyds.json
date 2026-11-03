@@ -1,5 +1,5 @@
 {
   "surum": "1.8.2",
-  "notlar": "1- Güncelleme ayarı düzeltildi.\n2- Geliştirilmeye devam ediyor, Güncellemede hata yaşarsanız indirilmiş dosyaya çift tıklayıp açınız eskisini siliniz.",
+  "notlar": "1- Yoklama Listesi Haftalık Hazırlama eklendi.\n2- Öğrenci Nöbet Dağıtımında Oda Numarasına göre dağıtım eklendi.\n3- Geliştirilmeye devam ediyor, Güncellemede hata yaşarsanız indirilmiş dosyaya çift tıklayıp açınız eskisini siliniz.",
   "link": "https://github.com/ER-PYDS/PYDS/releases/download/V1.0/Pansiyon_Nobet.exe"
 }
