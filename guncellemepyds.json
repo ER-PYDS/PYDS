@@ -1,5 +1,5 @@
 {
-  "surum": "1.9.2",
-  "notlar": "1- Yoklama Listesi Haftalık Hazırlama eklendi.\n2- Öğrenci Nöbet Dağıtımında Oda Numarasına göre dağıtım eklendi.\n3- Geliştirilmeye devam ediyor, Güncellemede hata yaşarsanız indirilmiş dosyaya çift tıklayıp açınız eskisini siliniz.",
+  "surum": "1.9.22",
+  "notlar": "1-Günlük 2 belletmen olan aya özel 2 sütunlu aylık nöbet çizelgesi eklendi.\n2-Öğretmen ayar bölümünde aylık nöbet sayısı Kapalı yapılırsa nöbet tutmaz eklendi.\n3- Yoklama Listesi Haftalık Hazırlama eklendi.\n4- Öğrenci Nöbet Dağıtımında Oda Numarasına göre dağıtım eklendi.\n5- Geliştirilmeye devam ediyor, Güncellemede hata yaşarsanız indirilmiş dosyaya çift tıklayıp açınız eskisini siliniz.",
   "link": "https://github.com/ER-PYDS/PYDS/releases/download/V1.0/Pansiyon_Nobet.exe"
 }
